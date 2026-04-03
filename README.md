@@ -39,6 +39,11 @@
 ![Networking](https://img.shields.io/badge/Networking-1D9E75?style=flat&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-888780?style=flat&logoColor=white)
 
+**Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 ---
 
 ## GitHub stats
