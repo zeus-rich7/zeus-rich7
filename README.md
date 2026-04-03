@@ -5,7 +5,7 @@
 
 ---
 
-**Problem solver** · **Systems thinker** · Python · Networking · Algorithms · Design patterns · Web dev
+**Problem solver** · **Systems thinker** · Python · Networking · Algorithms · Design patterns · Docker · Redis · DevOps
 
 ---
 
@@ -31,9 +31,25 @@
 
 ## Stack
 
+**Languages & web**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Concepts**
+
+![Algorithms](https://img.shields.io/badge/Algorithms-534AB7?style=flat&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-534AB7?style=flat&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1D9E75?style=flat&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-888780?style=flat&logoColor=white)
 
 ---
 
