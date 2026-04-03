@@ -1,20 +1,10 @@
 # zeus-rich7
 
-> I don't write code. I engineer solutions.
-> Built things that don't work — but scale to millions when they do.
+> Built things that don't just work — but scale.
 
 ---
 
 **Problem solver** · **Systems thinker** · Python · Networking · Algorithms · Design patterns · Docker · Redis · DevOps
-
----
-
-## What I actually do
-
-- Start with the problem, not the stack. The right tool follows the right question.
-- Think in systems — algorithms, network layers, patterns. Code is just the output.
-- Built web projects end-to-end: from architecture decisions to shipping.
-- Learn at an uncommon speed. Give me a new domain — I'll be dangerous in days.
 
 ---
 
@@ -25,8 +15,6 @@
 | **Algorithms** | Think in complexity. Write for scale before it's needed. |
 | **Networking** | TCP/IP to application layer. I understand what moves the data. |
 | **Design patterns** | Know when to apply them — and when not to. |
-| **Learning velocity** | Top 1–2%. New concept → applied knowledge, fast. |
-
 ---
 
 ## Stack
@@ -64,3 +52,5 @@
 
 - Open to interesting problems worth solving
 - Ask me about: system design, algorithms, networking fundamentals
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=zeus-rich7.zeus-rich7)
