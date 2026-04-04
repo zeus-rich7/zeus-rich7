@@ -6,7 +6,9 @@
 
 **Problem solver** · **Systems thinker** · Python · Networking · Algorithms · Design patterns · Docker · Redis · DevOps
 
----
+
+![](https://leetcard.jacoblin.cool/S6BUoQYTDi)
+
 
 ## Core strengths
 
