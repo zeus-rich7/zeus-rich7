@@ -58,6 +58,5 @@
 ## Currently
 
 - Open to interesting problems worth solving
-- Ask me about: system design, algorithms, networking fundamentals
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=zeus-rich7.zeus-rich7)
